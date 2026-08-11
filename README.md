@@ -1,4 +1,8 @@
 # wordle-guesser-code
+
+
+![Project screenshot](./screenshot.png)
+
 code to guess the correct word in wordle.
 
 ## Project Status
